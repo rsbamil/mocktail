@@ -23,7 +23,7 @@ const Navbar = () => {
   });
   return (
     <nav>
-      <div className="px-6 ">
+      <div>
         <a href="#home" className="flex items-center gap-2">
           <img src="/images/logo.png" alt="logo" />
           Velvet Pour

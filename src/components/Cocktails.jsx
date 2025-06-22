@@ -34,7 +34,7 @@ const Cocktails = () => {
         alt="right-leaf"
         id="c-right-leaf"
       />
-      <div className="list">
+      <div className="list px-8">
         <div className="popular">
           <h2>Most Popular Cocktails:</h2>
           <ul>

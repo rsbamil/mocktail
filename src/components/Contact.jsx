@@ -22,7 +22,7 @@ const Contact = () => {
         yPercent: 100,
         stagger: 0.02,
       })
-      .from(".content h3,.content p", {
+      .from(".content h3,.content p ,.content a", {
         opacity: 0,
         yPercent: 100,
         stagger: 0.02,
